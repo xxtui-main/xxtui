@@ -7,9 +7,18 @@
 <p align="center">xxtui，仅需一个url，轻松实现推送提醒。支持将消息发送至微信公众号、企业微信群、钉钉群、Bark ~</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/xxtui-简单高效-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/支持-微信|钉钉|Bark-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/扩展-自定义HTTP通道-green?style=for-the-badge" />
+  <a href="https://www.xxtui.com" target="_blank">
+    <img src="https://img.shields.io/badge/xxtui-简单高效-red?style=for-the-badge" alt="xxtui" />
+  </a>
+  <a href="https://www.xxtui.com/channelManage" target="_blank">
+    <img src="https://img.shields.io/badge/支持-微信|钉钉|Bark-blue?style=for-the-badge" alt="channel"/>
+  </a>
+  <a href="https://www.xxtui.com/channelManage" target="_blank">
+    <img src="https://img.shields.io/badge/扩展-自定义HTTP通道-green?style=for-the-badge" alt="custom_http"/>
+  </a>
+  <a href="https://www.xxtui.com/channelGroup" target="_blank">
+    <img src="https://img.shields.io/badge/渠道聚合-多渠道同时推送-purple?style=for-the-badge" alt="渠道组合" />
+  </a>
 </p>
 
 ## 💭社区
