@@ -6,6 +6,16 @@
 
 <p align="center">xxtui，仅需一个url，轻松实现推送提醒。支持将消息发送至微信公众号、企业微信群、钉钉群、Bark ~</p>
 
+<!-- 顶部统计徽章行 -->
+<p align="center">
+  <a href="https://github.com/vladelaina/Catime/stargazers">
+    <img src="https://img.shields.io/github/stars/xxtui-main/xxtui?style=flat-square&logo=github&color=yellow&label=Stars" alt="Stars" />
+  </a>
+  <a href="https://github.com/vladelaina/Catime/issues">
+    <img src="https://img.shields.io/github/issues/xxtui-main/xxtui?style=flat-square&label=open%20issues&color=orange" alt="Open Issues" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.xxtui.com" target="_blank">
     <img src="https://img.shields.io/badge/xxtui-简单高效-red?style=for-the-badge" alt="xxtui" />
