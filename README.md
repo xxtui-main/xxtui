@@ -30,6 +30,12 @@
     <img src="https://img.shields.io/badge/渠道聚合-多渠道同时推送-purple?style=for-the-badge" alt="渠道组合" />
   </a>
 </p>
+<div align="center">
+  
+[![Uptime](https://status.xxtui.com/api/badge/1/uptime?style=flat-square)](https://status.xxtui.com/status/xxtui)
+[![Avg-Response](https://status.xxtui.com/api/badge/1/avg-response?style=flat-square)](https://status.xxtui.com/status/xxtui)
+
+</div>
 
 ## 🌟特点
 
