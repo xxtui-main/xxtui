@@ -32,7 +32,7 @@
 </p>
 <div align="center">
   
-[![Uptime](https://status.xxtui.com/api/badge/1/uptime?style=flat-square)](https://status.xxtui.com/status/xxtui)
+[![Uptime](https://status.xxtui.com/api/badge/1/uptime/72?style=flat-square)](https://status.xxtui.com/status/xxtui)
 [![Avg-Response](https://status.xxtui.com/api/badge/1/avg-response?style=flat-square)](https://status.xxtui.com/status/xxtui)
 
 </div>
