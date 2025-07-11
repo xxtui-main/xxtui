@@ -18,16 +18,19 @@
 
 <p align="center">
   <a href="https://www.xxtui.com" target="_blank">
-    <img src="https://img.shields.io/badge/xxtui-简单高效-red?style=for-the-badge" alt="xxtui" />
+    <img src="https://img.shields.io/badge/xxtui-简单高效-ff5722?style=for-the-badge" alt="xxtui" />
   </a>
   <a href="https://www.xxtui.com/channelManage" target="_blank">
-    <img src="https://img.shields.io/badge/支持-微信|钉钉|Bark-blue?style=for-the-badge" alt="channel"/>
+    <img src="https://img.shields.io/badge/支持-微信|钉钉|Bark-2196F3?style=for-the-badge" alt="channel"/>
   </a>
   <a href="https://www.xxtui.com/channelManage" target="_blank">
-    <img src="https://img.shields.io/badge/扩展-自定义HTTP通道-green?style=for-the-badge" alt="custom_http"/>
+    <img src="https://img.shields.io/badge/支持-短信|语音电话-9C27B0?style=for-the-badge" alt="channel"/>
+  </a>
+  <a href="https://www.xxtui.com/channelManage" target="_blank">
+    <img src="https://img.shields.io/badge/扩展-自定义HTTP通道-4CAF50?style=for-the-badge" alt="custom_http"/>
   </a>
   <a href="https://www.xxtui.com/channelGroup" target="_blank">
-    <img src="https://img.shields.io/badge/渠道聚合-多渠道同时推送-purple?style=for-the-badge" alt="渠道组合" />
+    <img src="https://img.shields.io/badge/渠道聚合-多渠道同时推送-8e24aa?style=for-the-badge&logoColor=3949ab" alt="渠道组合" />
   </a>
 </p>
 <div align="center">
@@ -49,6 +52,10 @@
 - 📱 **微信公众号**
 
   通过公众号模板快速推送消息，直达用户微信端。
+
+- 📞 **短信 | 语音电话**
+
+  支持通过短信或语音电话方式，将重要通知直接发送到用户手机，适用于紧急提醒、重要事件推送等场景。
 
 - 📨 **企业微信群**
 
