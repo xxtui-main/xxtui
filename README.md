@@ -21,10 +21,10 @@
     <img src="https://img.shields.io/badge/xxtui-简单高效-ff5722?style=for-the-badge" alt="xxtui" />
   </a>
   <a href="https://www.xxtui.com/channelManage" target="_blank">
-    <img src="https://img.shields.io/badge/支持-微信|钉钉|Bark-2196F3?style=for-the-badge" alt="channel"/>
+    <img src="https://img.shields.io/badge/支持-多渠道-2196F3?style=for-the-badge" alt="channel"/>
   </a>
   <a href="https://www.xxtui.com/channelManage" target="_blank">
-    <img src="https://img.shields.io/badge/支持-短信|语音电话-9C27B0?style=for-the-badge" alt="channel"/>
+    <img src="https://img.shields.io/badge/支持-上行消息-9C27B0?style=for-the-badge" alt="channel"/>
   </a>
   <a href="https://www.xxtui.com/channelManage" target="_blank">
     <img src="https://img.shields.io/badge/扩展-自定义HTTP通道-4CAF50?style=for-the-badge" alt="custom_http"/>
