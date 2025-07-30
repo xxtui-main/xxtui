@@ -18,19 +18,19 @@
 
 <p align="center">
   <a href="https://www.xxtui.com" target="_blank">
-    <img src="https://img.shields.io/badge/xxtui-简单高效-ff5722?style=for-the-badge" alt="xxtui" />
+    <img src="https://img.shields.io/badge/KEY-专属安全-FF6E40?style=for-the-badge" alt="api_key"/>
   </a>
   <a href="https://www.xxtui.com/channelManage" target="_blank">
-    <img src="https://img.shields.io/badge/支持-多渠道-2196F3?style=for-the-badge" alt="channel"/>
-  </a>
-  <a href="https://www.xxtui.com/channelManage" target="_blank">
-    <img src="https://img.shields.io/badge/支持-上行消息-9C27B0?style=for-the-badge" alt="channel"/>
-  </a>
-  <a href="https://www.xxtui.com/channelManage" target="_blank">
-    <img src="https://img.shields.io/badge/扩展-自定义HTTP通道-4CAF50?style=for-the-badge" alt="custom_http"/>
+    <img src="https://img.shields.io/badge/扩展-自定义通道-BA68C8?style=for-the-badge" alt="custom_http"/>
   </a>
   <a href="https://www.xxtui.com/channelGroup" target="_blank">
-    <img src="https://img.shields.io/badge/渠道聚合-多渠道同时推送-8e24aa?style=for-the-badge&logoColor=3949ab" alt="渠道组合" />
+    <img src="https://img.shields.io/badge/聚合-多渠道推送-26A69A?style=for-the-badge&logoColor=3949ab" alt="渠道组合" />
+  </a>
+  <a href="https://www.xxtui.com/uplinkMessage" target="_blank">
+    <img src="https://img.shields.io/badge/消息-支持上行-4FC3F7?style=for-the-badge" alt="channel"/>
+  </a>
+  <a href="https://www.xxtui.com/command" target="_blank">
+    <img src="https://img.shields.io/badge/指令-简单易用-42A5F5?style=for-the-badge" alt="xxtui" />
   </a>
 </p>
 <div align="center">
