@@ -99,7 +99,7 @@
 
 ## 🤖 MCP 支持
 
-xxtui 已支持 MCP (Model Context Protocol) 协议，为 AI 提供了类似"万能接口"的能力，让模型能够安全、灵活地接入外部资源。
+MCP (Model Context Protocol) 协议，为 AI 提供了类似"万能接口"的能力，让模型能够安全、灵活地接入外部资源。
 
 ### 核心优势
 
