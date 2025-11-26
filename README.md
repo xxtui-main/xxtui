@@ -40,6 +40,10 @@
 
 </div>
 
+## 💭社群
+
+QQ群：<a href="https://qm.qq.com/cgi-bin/qm/qr?k=BUg0yLhoHJmpdpzN0yrASkeetOVIXWUx&amp;jump_from=webapi&amp;authKey=zHweEAW33vOqJb7UsGuYOkkzfx3npaD5m5j0aEJD+n4hzEr9pl8BWSASoHbynzNE" target="_blank"><i class="layui-icon layui-icon-login-qq layui-font-14" style="color: #12B7F5;"></i>255370930</a>
+
 ## 🌟特点
 
 - **简单**：一个url，仅需切换`专属KEY`，轻松实现各种渠道的通知
@@ -125,10 +129,6 @@ claude mcp add --transport http xxtui https://mcp.xxtui.com --header "API-KEY:�
 ## 🧩 小技巧
 
 - **移动的139邮箱可免费开启新邮件短信通知，收到新邮件时自动短信提醒。**
-
-## 💭社区
-
-火速赶来中~
 
 ## 💖支持
 
