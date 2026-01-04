@@ -8,10 +8,10 @@
 
 <!-- 顶部统计徽章行 -->
 <p align="center">
-  <a href="https://github.com/vladelaina/Catime/stargazers">
+  <a href="https://github.com/xxtui-main/xxtui/stargazers">
     <img src="https://img.shields.io/github/stars/xxtui-main/xxtui?style=flat-square&logo=github&color=yellow&label=Stars" alt="Stars" />
   </a>
-  <a href="https://github.com/vladelaina/Catime/issues">
+  <a href="https://github.com/xxtui-main/xxtui/issues">
     <img src="https://img.shields.io/github/issues/xxtui-main/xxtui?style=flat-square&label=open%20issues&color=orange" alt="Open Issues" />
   </a>
 </p>
